@@ -1,0 +1,193 @@
+cntry,cntry.code,HDIPP23
+Afghanistan,AFG,0.492
+Albania,ALB,0.755
+Algeria,DZA,0.706
+Andorra,AND,
+Angola,AGO,0.604
+Antigua and Barbuda,ATG,
+Argentina,ARG,0.763
+Armenia,ARM,0.761
+Australia,AUS,0.7
+Austria,AUT,0.757
+Azerbaijan,AZE,0.737
+Bahamas,BHS,0.712
+Bahrain,BHR,0.632
+Bangladesh,BGD,0.666
+Barbados,BRB,
+Belarus,BLR,
+Belgium,BEL,0.666
+Belize,BLZ,0.67
+Benin,BEN,0.504
+Bhutan,BTN,0.593
+Bolivia (Plurinational State of),BOL,0.675
+Bosnia and Herzegovina,BIH,0.701
+Botswana,BWA,0.698
+Brazil,BRA,0.702
+Brunei Darussalam,BRN,0.6
+Bulgaria,BGR,0.74
+Burkina Faso,BFA,0.453
+Burundi,BDI,0.435
+Cabo Verde,CPV,
+Cambodia,KHM,0.572
+Cameroon,CMR,0.574
+Canada,CAN,0.643
+Central African Republic,CAF,0.407
+Chad,TCD,0.397
+Chile,CHL,0.784
+China,CHN,0.644
+Colombia,COL,0.74
+Comoros,COM,
+Congo,COG,0.631
+Congo (Democratic Republic of the),COD,0.517
+Costa Rica,CRI,0.774
+C™te d'Ivoire,CIV,0.537
+Croatia,HRV,0.787
+Cuba,CUB,0.723
+Cyprus,CYP,0.754
+Czechia,CZE,0.764
+Denmark,DNK,0.792
+Djibouti,DJI,0.48
+Dominica,DMA,
+Dominican Republic,DOM,0.726
+Ecuador,ECU,0.735
+Egypt,EGY,0.726
+El Salvador,SLV,0.638
+Equatorial Guinea,GNQ,0.644
+Eritrea,ERI,0.496
+Estonia,EST,0.714
+Eswatini (Kingdom of),SWZ,
+Ethiopia,ETH,0.487
+Fiji,FJI,
+Finland,FIN,0.748
+France,FRA,0.804
+Gabon,GAB,0.704
+Gambia,GMB,0.514
+Georgia,GEO,0.772
+Germany,DEU,0.785
+Ghana,GHA,0.604
+Greece,GRC,0.803
+Grenada,GRD,
+Guatemala,GTM,0.626
+Guinea,GIN,0.488
+Guinea-Bissau,GNB,
+Guyana,GUY,
+Haiti,HTI,0.545
+Honduras,HND,0.62
+Hungary,HUN,0.757
+Iceland,ISL,0.735
+India,IND,0.656
+Indonesia,IDN,0.684
+Iran (Islamic Republic of),IRN,0.725
+Iraq,IRQ,0.665
+Ireland,IRL,0.752
+Israel,ISR,0.709
+Italy,ITA,0.801
+Jamaica,JAM,0.686
+Japan,JPN,0.785
+Jordan,JOR,0.714
+Kazakhstan,KAZ,0.687
+Kenya,KEN,0.61
+Kiribati,KIR,
+Korea (Republic of),KOR,0.745
+Kuwait,KWT,0.531
+Kyrgyzstan,KGZ,0.699
+Lao People's Democratic Republic,LAO,0.57
+Latvia,LVA,0.749
+Lebanon,LBN,0.691
+Lesotho,LSO,
+Liberia,LBR,0.505
+Libya,LBY,0.629
+Liechtenstein,LIE,
+Lithuania,LTU,0.751
+Luxembourg,LUX,0.479
+Madagascar,MDG,0.481
+Malawi,MWI,0.507
+Malaysia,MYS,0.677
+Maldives,MDV,
+Mali,MLI,0.411
+Malta,MLT,0.799
+Marshall Islands,MHL,
+Mauritania,MRT,0.542
+Mauritius,MUS,
+Mexico,MEX,0.721
+Micronesia (Federated States of),FSM,
+Moldova (Republic of),MDA,0.738
+Mongolia,MNG,0.577
+Montenegro,MNE,
+Morocco,MAR,0.679
+Mozambique,MOZ,0.486
+Myanmar,MMR,0.593
+Namibia,NAM,0.611
+Nauru,NRU,
+Nepal,NPL,0.592
+Netherlands,NLD,0.74
+New Zealand,NZL,0.731
+Nicaragua,NIC,0.668
+Niger,NER,0.41
+Nigeria,NGA,0.548
+North Macedonia,MKD,0.754
+Norway,NOR,0.723
+Oman,OMN,0.581
+Pakistan,PAK,0.529
+Palau,PLW,
+"Palestine, State of",PSE,0.653
+Panama,PAN,0.643
+Papua New Guinea,PNG,0.566
+Paraguay,PRY,0.689
+Peru,PER,0.757
+Philippines,PHL,0.68
+Poland,POL,0.792
+Portugal,PRT,0.797
+Qatar,QAT,0.276
+Romania,ROU,0.739
+Russian Federation,RUS,0.71
+Rwanda,RWA,0.567
+Saint Kitts and Nevis,KNA,
+Saint Lucia,LCA,
+Saint Vincent and the Grenadines,VCT,
+Samoa,WSM,
+San Marino,SMR,
+Sao Tome and Principe,STP,
+Saudi Arabia,SAU,0.666
+Senegal,SEN,0.512
+Serbia,SRB,0.724
+Seychelles,SYC,
+Sierra Leone,SLE,0.459
+Singapore,SGP,0.618
+Slovakia,SVK,0.77
+Slovenia,SVN,0.791
+Solomon Islands,SLB,
+Somalia,SOM,0.396
+South Africa,ZAF,0.685
+South Sudan,SSD,0.383
+Spain,ESP,0.818
+Sri Lanka,LKA,0.754
+Sudan,SDN,0.498
+Suriname,SUR,
+Sweden,SWE,0.81
+Switzerland,CHE,0.732
+Syrian Arab Republic,SYR,0.553
+Tajikistan,TJK,0.673
+Tanzania (United Republic of),TZA,0.541
+Thailand,THA,0.726
+Timor-Leste,TLS,
+Togo,TGO,0.562
+Tonga,TON,
+Trinidad and Tobago,TTO,
+Tunisia,TUN,0.703
+TŸrkiye,TUR,0.729
+Turkmenistan,TKM,0.667
+Tuvalu,TUV,
+Uganda,UGA,0.569
+Ukraine,UKR,0.717
+United Arab Emirates,ARE,0.585
+United Kingdom,GBR,0.827
+United States,USA,0.686
+Uruguay,URY,0.804
+Uzbekistan,UZB,0.702
+Vanuatu,VUT,
+Venezuela (Bolivarian Republic of),VEN,0.652
+Viet Nam,VNM,0.699
+Yemen,YEM,0.465
+Zambia,ZMB,0.585
+Zimbabwe,ZWE,0.585
