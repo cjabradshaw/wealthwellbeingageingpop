@@ -1,5 +1,5 @@
 # Effects of ageing/declining populations on national-level indices of wealth and wellbeing
-<a href="https://doi.org/10.5281/zenodo.15826278"><img src="https://zenodo.org/badge/1015144832.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.15826278"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15826278.svg" alt="DOI"></a>
 <img align="right" src="www/healthwellbeing.png" alt="health, wealth, wellbeing" width="250" style="margin-top: 20px">
 
 Corey J. A. Bradshaw<br>
