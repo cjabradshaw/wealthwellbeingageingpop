@@ -14,7 +14,6 @@ library(ggrepel)
 library(usdm)
 
 # custom functions
-# needed functions
 modifyVecFunc <- function(obj_name, index, new_value) {
   tryCatch({
     if (!object_exists(obj_name)) {
