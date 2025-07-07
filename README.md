@@ -7,7 +7,7 @@ Corey J. A. Bradshaw<br>
 <a href="mailto:corey.bradshaw@flinders.edu.au">e-mail</a><br>
 <br>
 Shana M. McDermott<br>
-Department of Economics, University of Missouri<br>
+<a href="https://economics.missouri.edu">Department of Economics</a>, University of Missouri<br>
 <a href="mailto:smmvt@missouri.edu">e-mail</a><br>
 <br>
 
