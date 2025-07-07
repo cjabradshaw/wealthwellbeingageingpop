@@ -1,4 +1,5 @@
 # Effects of ageing/declining populations on national-level indices of wealth and wellbeing
+<img align="right" src="www/healthwellbeing.png" alt="health, wealth, wellbeing" width="300" style="margin-top: 20px">
 
 Corey J. A. Bradshaw<br>
 <a href="http://globalecologyflinders.com">Global Ecology</a>, Flinders University<br>
@@ -23,3 +24,6 @@ Department of Economics, University of Missouri<br>
  
 ## Required R libraries
 <code>boot</code>, <code>dismo</code>, <code>gbm</code>, <code>ggarrange</code>, <code>ggplot2</code>, <code>ggpubr</code>, <code>ggrepel</code>, <code>usdm</code>
+
+<p><a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Stacked_RGB_Master.jpg" alt="Flinders University logo" width="80" style="margin-top: 20px"></a> &nbsp; <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="130" style="margin-top: 20px"></a>  &nbsp; &nbsp;
+ <a href="https://ciehf.au"><img align="bottom-left" src="www/CIEHF_Logo_Email_Version Transparent.png" alt="CIEHF logo" width="200" style="margin-top: 20px"></a>  &nbsp; &nbsp; <a href="https://economics.missouri.edu"><img align="bottom-left" src="www/UMlogo.png" alt="U Missouri logo" width="80" style="margin-top: 20px"></a></p>
