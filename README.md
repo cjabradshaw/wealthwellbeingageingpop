@@ -11,7 +11,7 @@ Department of Economics, University of Missouri<br>
 <a href="mailto:smmvt@missouri.edu">e-mail</a><br>
 <br>
 
-## <a href="">Scripts</a>
+## <a href="https://github.com/cjabradshaw/wealthwellbeingageingpop/tree/main/scripts">Scripts</a>
 - <code>wealthwellbeingpopGH.R</code>: R code for all analyses
  
 ## <a href="">Data</a>
