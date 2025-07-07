@@ -3,11 +3,11 @@
 <img align="right" src="www/healthwellbeing.png" alt="health, wealth, wellbeing" width="250" style="margin-top: 20px">
 
 Corey J. A. Bradshaw<br>
-<a href="http://globalecologyflinders.com">Global Ecology</a>, Flinders University<br>
+<a href="http://globalecologyflinders.com">Global Ecology</a>, Flinders University, Australia<br>
 <a href="mailto:corey.bradshaw@flinders.edu.au">e-mail</a><br>
 <br>
 Shana M. McDermott<br>
-<a href="https://economics.missouri.edu">Department of Economics</a>, University of Missouri<br>
+<a href="https://economics.missouri.edu">Department of Economics</a>, University of Missouri, USA<br>
 <a href="mailto:smmvt@missouri.edu">e-mail</a><br>
 <br>
 
