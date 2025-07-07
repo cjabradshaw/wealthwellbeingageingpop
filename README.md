@@ -11,10 +11,10 @@ Department of Economics, University of Missouri<br>
 <a href="mailto:smmvt@missouri.edu">e-mail</a><br>
 <br>
 
-## Scripts
+## <a href="">Scripts</a>
 - <code>wealthwellbeingpopGH.R</code>: R code for all analyses
  
-## Data
+## <a href="">Data</a>
 - <em>continent.country2.csv</em>: country names, 3-character ISO country codes, continental region, other regionalisation
 - <em>DCWI.csv</em>: per-capita domestic comprehensive wealth index by country (source: World Bank)
 - <em>gdppcPPP.csv</em>: per-capita gross domestic product adjusted for purchasing power parity by country (source: World Bank)
