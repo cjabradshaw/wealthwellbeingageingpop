@@ -14,7 +14,7 @@ Department of Economics, University of Missouri<br>
 ## <a href="https://github.com/cjabradshaw/wealthwellbeingageingpop/tree/main/scripts">Scripts</a>
 - <code>wealthwellbeingpopGH.R</code>: R code for all analyses
  
-## <a href="">Data</a>
+## <a href="https://github.com/cjabradshaw/wealthwellbeingageingpop/tree/main/data">Data</a>
 - <em>continent.country2.csv</em>: country names, 3-character ISO country codes, continental region, other regionalisation
 - <em>DCWI.csv</em>: per-capita domestic comprehensive wealth index by country (source: World Bank)
 - <em>gdppcPPP.csv</em>: per-capita gross domestic product adjusted for purchasing power parity by country (source: World Bank)
