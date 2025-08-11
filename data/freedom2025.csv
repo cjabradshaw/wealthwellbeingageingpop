@@ -1,0 +1,209 @@
+cntry,year,freedom,cntry.code
+Abkhazia,2025,39,
+Afghanistan,2025,6,AFG
+Albania,2025,68,ALB
+Algeria,2025,31,DZA
+Andorra,2025,93,AND
+Angola,2025,28,AGO
+Antigua and Barbuda,2025,83,ATG
+Argentina,2025,85,ARG
+Armenia,2025,54,ARM
+Australia,2025,95,AUS
+Austria,2025,93,AUT
+Azerbaijan,2025,7,AZE
+Bahamas,2025,90,BHS
+Bahrain,2025,12,BHR
+Bangladesh,2025,45,BGD
+Barbados,2025,94,BRB
+Belarus,2025,7,BLR
+Belgium,2025,96,BEL
+Belize,2025,88,BLZ
+Benin,2025,60,BEN
+Bhutan,2025,68,BTN
+Bolivia,2025,65,BOL
+Bosnia and Herzegovina,2025,52,BIH
+Botswana,2025,75,BWA
+Brazil,2025,72,BRA
+Brunei,2025,27,BRN
+Bulgaria,2025,77,BGR
+Burkina Faso,2025,25,BFA
+Burundi,2025,15,BDI
+Cabo Verde,2025,92,CPV
+Cambodia,2025,23,KHM
+Cameroon,2025,15,CMR
+Canada,2025,97,CAN
+Central African Republic,2025,5,CAF
+Chad,2025,15,TCD
+Chile,2025,95,CHL
+China,2025,9,CHN
+Colombia,2025,70,COL
+Comoros,2025,42,COM
+Congo (Brazzaville),2025,17,COG
+Congo (Kinshasa),2025,18,COD
+Costa Rica,2025,91,CRI
+Cote d'Ivoire,2025,49,CIV
+Croatia,2025,82,HRV
+Cuba,2025,10,CUB
+Cyprus,2025,91,CYP
+Czech Republic,2025,95,CZE
+Denmark,2025,97,DNK
+Djibouti,2025,24,DJI
+Dominica,2025,92,DMA
+Dominican Republic,2025,68,DOM
+Ecuador,2025,65,ECU
+Egypt,2025,18,EGY
+El Salvador,2025,47,SLV
+Equatorial Guinea,2025,5,GNQ
+Eritrea,2025,3,ERI
+Estonia,2025,96,EST
+Eswatini,2025,17,SWZ
+Ethiopia,2025,18,ETH
+Fiji,2025,69,FJI
+Finland,2025,100,FIN
+France,2025,89,FRA
+Gabon,2025,21,GAB
+Gaza Strip,2025,2,
+Georgia,2025,55,GEO
+Germany,2025,95,DEU
+Ghana,2025,80,GHA
+Greece,2025,85,GRC
+Grenada,2025,89,GRD
+Guatemala,2025,48,GTM
+Guinea,2025,30,GIN
+Guinea-Bissau,2025,41,GNB
+Guyana,2025,74,GUY
+Haiti,2025,24,HTI
+Honduras,2025,48,HND
+Hong Kong,2025,40,
+Hungary,2025,65,HUN
+Iceland,2025,95,ISL
+India,2025,63,IND
+Indian Kashmir,2025,38,
+Indonesia,2025,56,IDN
+Iran,2025,11,IRN
+Iraq,2025,31,IRQ
+Ireland,2025,97,IRL
+Israel,2025,73,ISR
+Italy,2025,89,ITA
+Jamaica,2025,80,JAM
+Japan,2025,96,JPN
+Jordan,2025,34,JOR
+Kazakhstan,2025,23,KAZ
+Kenya,2025,51,KEN
+Kiribati,2025,89,KIR
+Kosovo,2025,60,XKX
+Kuwait,2025,31,KWT
+Kyrgyzstan,2025,26,KGZ
+Laos,2025,13,LAO
+Latvia,2025,89,LVA
+Lebanon,2025,39,LBN
+Lesotho,2025,66,LSO
+Liberia,2025,64,LBR
+Libya,2025,10,LBY
+Liechtenstein,2025,90,LIE
+Lithuania,2025,89,LTU
+Luxembourg,2025,97,LUX
+Madagascar,2025,55,MDG
+Malawi,2025,65,MWI
+Malaysia,2025,53,MYS
+Maldives,2025,43,MDV
+Mali,2025,24,MLI
+Malta,2025,87,MLT
+Marshall Islands,2025,93,MHL
+Mauritania,2025,39,MRT
+Mauritius,2025,86,MUS
+Mexico,2025,59,MEX
+Micronesia,2025,92,FSM
+Moldova,2025,60,MDA
+Monaco,2025,82,MCO
+Mongolia,2025,84,MNG
+Montenegro,2025,69,MNE
+Morocco,2025,37,MAR
+Mozambique,2025,41,MOZ
+Myanmar,2025,7,MMR
+Namibia,2025,73,NAM
+Nauru,2025,75,NRU
+Nepal,2025,62,NPL
+Netherlands,2025,97,NLD
+New Zealand,2025,99,NZL
+Nicaragua,2025,14,NIC
+Niger,2025,30,NER
+Nigeria,2025,44,NGA
+North Korea,2025,3,PRK
+North Macedonia,2025,67,MKD
+Northern Cyprus,2025,76,
+Norway,2025,99,NOR
+Oman,2025,24,OMN
+Pakistan,2025,32,PAK
+Pakistani Kashmir,2025,30,
+Palau,2025,92,PLW
+Panama,2025,83,PAN
+Papua New Guinea,2025,61,PNG
+Paraguay,2025,63,PRY
+Peru,2025,67,PER
+Philippines,2025,58,PHL
+Poland,2025,82,POL
+Portugal,2025,96,PRT
+Qatar,2025,25,QAT
+Romania,2025,82,ROU
+Russia,2025,12,RUS
+Russian-Occupied Territories of Ukraine,2025,-1,
+Rwanda,2025,21,RWA
+Samoa,2025,84,WSM
+San Marino,2025,97,SMR
+Sao Tome and Principe,2025,84,STP
+Saudi Arabia,2025,9,SAU
+Senegal,2025,69,SEN
+Serbia,2025,56,SRB
+Seychelles,2025,80,SYC
+Sierra Leone,2025,59,SLE
+Singapore,2025,48,SGP
+Slovakia,2025,89,SVK
+Slovenia,2025,96,SVN
+Solomon Islands,2025,75,SLB
+Somalia,2025,8,SOM
+Somaliland,2025,47,
+South Africa,2025,81,ZAF
+South Korea,2025,81,KOR
+South Ossetia,2025,12,
+South Sudan,2025,1,SSD
+Spain,2025,90,ESP
+Sri Lanka,2025,58,LKA
+St. Kitts and Nevis,2025,89,KNA
+St. Lucia,2025,91,LCA
+St. Vincent and the Grenadines,2025,90,VCT
+Sudan,2025,2,SDN
+Suriname,2025,80,SUR
+Sweden,2025,99,SWE
+Switzerland,2025,96,CHE
+Syria,2025,5,SYR
+Taiwan,2025,94,TWN
+Tajikistan,2025,5,TJK
+Tanzania,2025,35,TZA
+Thailand,2025,34,THA
+The Gambia,2025,50,GMB
+Tibet,2025,0,
+Timor-Leste,2025,72,TLS
+Togo,2025,41,TGO
+Tonga,2025,80,TON
+Transnistria,2025,17,
+Trinidad and Tobago,2025,82,TTO
+Tunisia,2025,44,TUN
+Turkey,2025,33,TUR
+Turkmenistan,2025,1,TKM
+Tuvalu,2025,93,TUV
+Uganda,2025,34,UGA
+Ukraine,2025,51,UKR
+United Arab Emirates,2025,18,ARE
+United Kingdom,2025,92,GBR
+United States,2025,84,USA
+Uruguay,2025,96,URY
+Uzbekistan,2025,12,UZB
+Vanuatu,2025,82,VUT
+Venezuela,2025,13,VEN
+Vietnam,2025,20,VNM
+West Bank,2025,22,
+Western Sahara,2025,4,ESH
+Yemen,2025,10,YEM
+Zambia,2025,53,ZMB
+Zimbabwe,2025,26,ZWE
