@@ -19,6 +19,8 @@ Bradshaw, CJA, SM McDermott. No evidence ageing or declining populations comprom
 ## <a href="https://github.com/cjabradshaw/wealthwellbeingageingpop/tree/main/data">Data</a>
 - <em>continent.country2.csv</em>: country names, 3-character ISO country codes, continental region, other regionalisation
 - <em>DCWI.csv</em>: per-capita domestic comprehensive wealth index by country (source: World Bank)
+- <em>freedom.csv</em>: freedom score time series (source: Freedom House)
+- <em>freedom2025.csv</em>: freedom score 2025 (source: Freedom House)
 - <em>gdppcPPP.csv</em>: per-capita gross domestic product adjusted for purchasing power parity by country (source: World Bank)
 - <em>giniMn.csv</em>: annual time series of Gini coefficient (income equality) (source: World Bank)
 - <em>gcf.csv</em>: gross captial formation (source: World Bank)
@@ -28,6 +30,7 @@ Bradshaw, CJA, SM McDermott. No evidence ageing or declining populations comprom
 - <em>healthyLE.csv</em>: healthy life expectancy at birth (years) (source: World Health Organization)
 - <em>mva.csv</em>: value-added manufacturing (source: World Bank)
 - <em>par.csv</em>: patent applications (source: World Bank)
+- <em>polspectrum.csv</em>: political spectrum (Global Parliament Index 2025) (source: Arden Strategies)
 - <em>pwt.csv</em>: human capital index, capital services, capital stock, output-side real GDP at current PPP, capital services levels at current PPPs (source: Penn World Table, Groningen Growth and Development Centre, Faculty of Economics and Business)
 - <em>popXage.csv</em>: population size by country, year (1950-2021), and yearly age class (0-100+) (source: United Nations Population Division)
 - <em>rde.csv</em>: gross expenditure on research and development (source: World Bank)
