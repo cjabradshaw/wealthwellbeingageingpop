@@ -14,7 +14,7 @@ Accompanies paper:<br>
 Bradshaw, CJA, SM McDermott. No evidence ageing or declining populations compromise socio-economic performance of countries. In review<br>
 
 ## <a href="https://github.com/cjabradshaw/wealthwellbeingageingpop/tree/main/scripts">Scripts</a>
-- <code>wealthwellbeingpopGH.R</code>: R code for all analyses
+- <code>ageingSEperformanceGH.R</code>: R code for all analyses
  
 ## <a href="https://github.com/cjabradshaw/wealthwellbeingageingpop/tree/main/data">Data</a>
 - <em>continent.country2.csv</em>: country names, 3-character ISO country codes, continental region, other regionalisation
