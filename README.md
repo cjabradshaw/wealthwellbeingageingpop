@@ -35,7 +35,7 @@ Bradshaw, CJA, SM McDermott. No evidence ageing or declining populations comprom
 - <em>popXage.csv</em>: population size by country, year (1950-2021), and yearly age class (0-100+) (source: United Nations Population Division)
 - <em>rde.csv</em>: gross expenditure on research and development (source: World Bank)
 - <em>savings.csv</em>: gross savings (source: World Bank)
-- <em>WB_ASPD.csv</em>: total factor productivity (source: World Bank)
+- <em>WB_ASPD.csv.zip</em>: total factor productivity (zipped) (source: World Bank)
 - <em>WB_ASPD_LPXR.csv</em>: labour productivity (source: World Bank)
 - <em>WB_WDI-SI_POV_GINI.csv</em>: Gini coefficient (income equality) (source: World Bank)
 - <em>wellbeingrank.csv</em>: composite wellbeing rank by country (source: Blanchflower & Bryson 2024)
