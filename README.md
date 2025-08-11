@@ -18,6 +18,9 @@ Bradshaw, CJA, SM McDermott. No evidence ageing or declining populations comprom
  
 ## <a href="https://github.com/cjabradshaw/wealthwellbeingageingpop/tree/main/data">Data</a>
 - <em>continent.country2.csv</em>: country names, 3-character ISO country codes, continental region, other regionalisation
+- <em>CPIA23wb.csv</em>: CPIA transparency, accountability, and corruption in the public sector rating (source: World Bank)
+- <em>cpi.csv</em>: corruption perception index (source: Transparency International)
+- <em>cpits.csv</em>: corruption perception index time series (source: Transparency International)
 - <em>DCWI.csv</em>: per-capita domestic comprehensive wealth index by country (source: World Bank)
 - <em>freedom.csv</em>: freedom score time series (source: Freedom House)
 - <em>freedom2025.csv</em>: freedom score 2025 (source: Freedom House)
@@ -27,6 +30,7 @@ Bradshaw, CJA, SM McDermott. No evidence ageing or declining populations comprom
 - <em>gor.csv</em>: grants and other revenue (source: World Bank)
 - <em>HDI.csv</em>: Human Development Index (source: United Nations Development Programme)
 - <em>HDIPP.csv</em>: planetary pressure-adjusted Human Development Index (source: United Nations Development Programme)
+- <em>HDIPPtimeseries.csv</em>: planetary pressure-adjusted Human Development Index time series (source: United Nations Development Programme)
 - <em>healthyLE.csv</em>: healthy life expectancy at birth (years) (source: World Health Organization)
 - <em>mva.csv</em>: value-added manufacturing (source: World Bank)
 - <em>par.csv</em>: patent applications (source: World Bank)
