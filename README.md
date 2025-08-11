@@ -24,6 +24,7 @@ Bradshaw, CJA, SM McDermott. No evidence ageing or declining populations comprom
 - <em>HDI.csv</em>: Human Development Index (source: United Nations Development Programme)
 - <em>HDIPP.csv</em>: planetary pressure-adjusted Human Development Index (source: United Nations Development Programme)
 - <em>healthyLE.csv</em>: healthy life expectancy at birth (years) (source: World Health Organization)
+- <em>mva.csv</em>: value-added manufacturing (source: World Bank)
 - <em>popXage.csv</em>: population size by country, year (1950-2021), and yearly age class (0-100+) (source: United Nations Population Division)
 - <em>WB_ASPD_LPXR.csv</em>: labour productivity (source: World Bank)
 - <em>WB_WDI-SI_POV_GINI.csv</em>: Gini coefficient (income equality) (source: World Bank)
