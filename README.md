@@ -20,9 +20,13 @@ Bradshaw, CJA, SM McDermott. No evidence ageing or declining populations comprom
 - <em>continent.country2.csv</em>: country names, 3-character ISO country codes, continental region, other regionalisation
 - <em>DCWI.csv</em>: per-capita domestic comprehensive wealth index by country (source: World Bank)
 - <em>gdppcPPP.csv</em>: per-capita gross domestic product adjusted for purchasing power parity by country (source: World Bank)
+- <em>giniMn.csv</em>: annual time series of Gini coefficient (income equality) (source: World Bank)
 - <em>HDI.csv</em>: Human Development Index (source: United Nations Development Programme)
 - <em>HDIPP.csv</em>: planetary pressure-adjusted Human Development Index (source: United Nations Development Programme)
+- <em>healthyLE.csv</em>: healthy life expectancy at birth (years) (source: World Health Organization)
 - <em>popXage.csv</em>: population size by country, year (1950-2021), and yearly age class (0-100+) (source: United Nations Population Division)
+- <em>WB_ASPD_LPXR.csv</em>: labour productivity (source: World Bank)
+- <em>WB_WDI-SI_POV_GINI.csv</em>: Gini coefficient (income equality) (source: World Bank)
 - <em>wellbeingrank.csv</em>: composite wellbeing rank by country (source: Blanchflower & Bryson 2024)
  
 ## Required R libraries
