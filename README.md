@@ -10,8 +10,8 @@ Shana M. McDermott<br>
 <a href="https://economics.missouri.edu">Department of Economics</a>, University of Missouri, USA<br>
 <a href="mailto:smmvt@missouri.edu">e-mail</a><br>
 <br>
-Accompanies paper:<br>
-Bradshaw, CJA, SM McDermott. No evidence ageing or declining populations compromise socio-economic performance of countries. In review<br>
+Accompanies pre-print:<br>
+Bradshaw, CJA, SM McDermott. <a href="https://doi.org/10.48550/arXiv.2508.16872">No evidence ageing or declining populations compromise socio-economic performance of countries</a>. <em>arχiv</em> doi:10.48550/arXiv.2508.16872<br>
 
 ## <a href="https://github.com/cjabradshaw/wealthwellbeingageingpop/tree/main/scripts">Scripts</a>
 - <code>ageingSEperformanceGH.R</code>: R code for all analyses
